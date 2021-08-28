@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.customsd
+{
+color: skyblue;
+padding-left: 0.5em;
+margin-left: 1.5em;
+text-align: left;
+font-size:xx-large;
+font-weight: 1000;
+font-style: oblique;
+
+}
+.button-red
+{
+background-color: red;
+color: white;
+
+
+}
+
+.button-blue 
+{
+background-color: royalblue;
+color:ivory;
+}
+
