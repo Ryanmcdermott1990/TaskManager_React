@@ -1,10 +1,10 @@
 
 
-![Example 1](https://github.com/Ryanmcdermott1990/TaskManager_React/blob/main/giphy.gif)
+![Example 1](https://github.com/Ryanmcdermott1990/TaskManager_React/blob/main/public/Create_Edit_Delete_Task.gif)
 
 #+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#
 
-![Example 2](https://giphy.com/gifs/jrn9tfztqtnNrZzOOJ.gif)
+![Example 2](https://github.com/Ryanmcdermott1990/TaskManager_React/blob/main/public/Search_Task.gif)
 
 # REACT - Task Manager
 Through this project I learned the basics of React.js as a powerful tool for building fast and snazzy frontend web applications. 
