@@ -1,10 +1,10 @@
 
 Inline-style: 
-![Example 1](https://giphy.com/gifs/oU68cogIq08V2hHPUW)
+![Example 1](https://giphy.com/gifs/oU68cogIq08V2hHPUW.gif)
 
 #+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#
 Inline-style: 
-![Example 2](https://giphy.com/gifs/jrn9tfztqtnNrZzOOJ)
+![Example 2](https://giphy.com/gifs/jrn9tfztqtnNrZzOOJ.gif)
 
 # REACT - Task Manager
 Through this project I learned the basics of React.js as a powerful tool for building fast and snazzy frontend web applications. 
