@@ -1,9 +1,9 @@
 
-Inline-style: 
+
 ![Example 1](https://giphy.com/gifs/oU68cogIq08V2hHPUW.gif)
 
 #+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#
-Inline-style: 
+
 ![Example 2](https://giphy.com/gifs/jrn9tfztqtnNrZzOOJ.gif)
 
 # REACT - Task Manager
