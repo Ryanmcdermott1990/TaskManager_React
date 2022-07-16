@@ -28,8 +28,8 @@ This in part, goes towards the initial mistake of not managing state as well as 
 - Code Design and Planning
 As this was my first app using React.js and I am not as familiar with the syntax and implementation of managing State in the front end, there were a lot of things that I learned as I went by 
 
-## How to run the app on your local
-After cloning the repo to your local machinge, cd into the projecet directory folder and and runn npm -i, 
+# How To Run the App on Your Local Machine
+After cloning the repo to your local machine, cd into the projecet directory folder and and runn npm -i, 
 You should then be able to run the app by executing the following command. 
 ### `npm start`
 This willl run the app in the local server in development mode.
