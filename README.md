@@ -1,9 +1,10 @@
 
-![Alt Text](https://giphy.com/gifs/oU68cogIq08V2hHPUW)
+Inline-style: 
+![Example 1](https://giphy.com/gifs/oU68cogIq08V2hHPUW)
 
-#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----
-
-![Alt Text](https://giphy.com/gifs/jrn9tfztqtnNrZzOOJ)
+#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#
+Inline-style: 
+![Example 2](https://giphy.com/gifs/jrn9tfztqtnNrZzOOJ)
 
 # REACT - Task Manager
 Through this project I learned the basics of React.js as a powerful tool for building fast and snazzy frontend web applications. 
