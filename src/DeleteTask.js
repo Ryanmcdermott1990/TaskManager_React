@@ -6,7 +6,6 @@ import Task from 'react';
 
 
 function DeleteTask({task, tasks, setTasks}) {
-// const [desc, setDesc] = useState("");
     const handleDelete = (task) => {
         if (tasks && tasks.length > 0) {
             const nTasks = [...tasks]

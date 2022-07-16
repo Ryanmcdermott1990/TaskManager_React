@@ -1,70 +1,43 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt Text](https://giphy.com/gifs/oU68cogIq08V2hHPUW)
 
-## Available Scripts
+#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----
 
-In the project directory, you can run:
+![Alt Text](https://giphy.com/gifs/jrn9tfztqtnNrZzOOJ)
 
+# REACT - Task Manager
+Through this project I learned the basics of React.js as a powerful tool for building fast and snazzy frontend web applications. 
+The main things that I learned from the project were;
+
+- React Hooks - (UseEffect, UseState) -- The fundemental part of learning React.js is it's unique way of managing State.
+- Functional and Class Based Components -- Throughout this exercise I was able to convert my previously class based components to functional components to reduce code, increase readability and conform with best practive 
+- Basic CRUD functions on the front end
+- Rendering HTML through JSX
+- Basic architecture for organising code better for readibility, scalability etc..
+
+Things I can improve on this app are;
+
+- State Management
+I would like to go further to understand and apply the context API as I found it hard when trying to access variables declared in sibling components
+
+- ID Management 
+There was not the attention when creating this app on assingning id's to each of the tasks in a way that would make getting a unique ID for each task very messy and complicated, this is what prevented connecting the NodeJS backend with a MySQL database instance. 
+This in part, goes towards the initial mistake of not managing state as well as I should have from the start. 
+
+- Code Design and Planning
+As this was my first app using React.js and I am not as familiar with the syntax and implementation of managing State in the front end, there were a lot of things that I learned as I went by 
+
+## How to run the app on your local
+After cloning the repo to your local machinge, cd into the projecet directory folder and and runn npm -i, 
+You should then be able to run the app by executing the following command. 
 ### `npm start`
+This willl run the app in the local server in development mode.
+Open the following URL's in your web browser [http://localhost:3000](http://localhost:3000) to run the app.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+To run tests on the app run, npm test
+Proper ests have not been setup on this app, I would most likely implement Jest / Cypress scripts on this app, if I choose to refactor the code. 
 ### `npm test`
-
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
